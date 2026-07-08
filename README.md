@@ -1,41 +1,50 @@
-## Hi there 👋
 # Hi, I'm Surya Chandran 👋
 
-## Automotive Software Engineer
+## Automotive Software Engineer | System Integration | ADAS Validation
 
-Senior Software Engineer with 13+ years of experience in automotive 
-system integration, testing and validation.
+Automotive engineer with 13+ years of experience in:
+- System Integration
+- ECU Testing & Validation
+- HiL Testing
+- Infotainment Systems
+- ADAS Functions
+- Test Automation
 
-### Expertise
+## Technical Skills
 
-🚗 Automotive Software Testing  
-🔧 HiL Testing & Validation  
-📡 Infotainment & Connectivity Systems  
-🛣️ ADAS Testing  
-🐍 Python Automation  
-🤖 AI for Automotive Applications  
+### Automotive
+- CAN / LIN Communication
+- Vehicle Networks
+- ECU Integration
+- Requirement Analysis
+- Test Strategy & Test Design
+- ISO 26262 Fundamentals
 
-### Technical Skills
+### Testing
+- Functional Testing
+- Regression Testing
+- Performance Testing
+- Stability Testing
+- HiL Validation
 
+### Programming
 - Python
 - CAPL
-- CAN / LIN
-- ECU Testing
 - Test Automation
-- Requirement Analysis
-- ISO 26262
-- Vehicle Networks
+- Data Analysis
 
-### Current Learning
-
+## Current Learning
 - Python Automation
-- Artificial Intelligence
+- AI for Automotive Applications
 - Machine Learning Fundamentals
 - Generative AI
 
-### Projects
+## Featured Projects
 
-Coming soon...
+🚗 Automotive CAN Analyzer  
+🐍 Python Test Automation Framework  
+🛣️ ADAS Validation Examples  
+🤖 AI-based Vehicle Data Analysis
 <!--
 **Surya-Chandran/Surya-Chandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
